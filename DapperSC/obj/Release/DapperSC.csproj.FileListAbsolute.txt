@@ -1,0 +1,7 @@
+E:\dev\vs\DapperSimpleCrudTemplate\DapperSimpleCrudTemplate\bin\Release\DapperSC.dll
+E:\dev\vs\DapperSimpleCrudTemplate\DapperSimpleCrudTemplate\bin\Release\DapperSC.pdb
+E:\dev\vs\DapperSimpleCrudTemplate\DapperSimpleCrudTemplate\bin\Release\Dapper.dll
+E:\dev\vs\DapperSimpleCrudTemplate\DapperSimpleCrudTemplate\bin\Release\Dapper.xml
+E:\dev\vs\DapperSimpleCrudTemplate\DapperSimpleCrudTemplate\obj\Release\DapperSC.csprojResolveAssemblyReference.cache
+E:\dev\vs\DapperSimpleCrudTemplate\DapperSimpleCrudTemplate\obj\Release\DapperSC.dll
+E:\dev\vs\DapperSimpleCrudTemplate\DapperSimpleCrudTemplate\obj\Release\DapperSC.pdb
